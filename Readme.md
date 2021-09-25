@@ -10,13 +10,3 @@ The main feature of this website are:
 ✔ responsive blogs / post / news box section using css grid.
 ✔ responsive footer section using css grid.
 
-* SOURCE CODES *
-
-DOWNLOAD THE SOURCE CODE FROM GOOGLE DRIVE ( INCLUDES IMAGES ):
-https://drive.google.com/file/d/1N6nE3QnKtni-MHlSuUclC5C3YP45cLhX/view
-
-font awesome cdn link:
-https://cdnjs.com/libraries/font-awesome
-
-google fonts:
-https://fonts.google.com/specimen/Nun...
